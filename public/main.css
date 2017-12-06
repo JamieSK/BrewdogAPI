@@ -1,16 +1,14 @@
-main{
-  width: 300px;
+main {
+  width: 60vw;
   margin: 0 auto;
 }
 
-input{
-  padding: 10px;
-  border-radius: 5px;
-  width: 400px;
-  font-size: 22px;
-  margin: 10px;
+#beer-image {
+  height: 80vh;
+  float: left;
+  padding: 40px;
 }
 
-.beers{
-  padding: 5px;
+.column {
+  margin: 5px;
 }
